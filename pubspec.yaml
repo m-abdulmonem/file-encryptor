@@ -1,7 +1,7 @@
 name: file_encryptor
-description: A new Flutter plugin project.
+description: file encryptor/decryptor with base64
 version: 0.0.1
-homepage:
+homepage: https://github.com/m-abdulmonem/file-encryptor
 
 environment:
   sdk: '>=2.18.1 <3.0.0'
